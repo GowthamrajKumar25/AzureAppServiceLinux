@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAppServiceLinux", "AzureAppServiceLinux.csproj", "{8145FC2E-35F4-4412-8445-D11723DD6E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8145FC2E-35F4-4412-8445-D11723DD6E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8145FC2E-35F4-4412-8445-D11723DD6E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8145FC2E-35F4-4412-8445-D11723DD6E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8145FC2E-35F4-4412-8445-D11723DD6E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F38205C2-BE2E-45FD-A62A-2ACB04165514}
+	EndGlobalSection
+EndGlobal
